@@ -1,0 +1,7 @@
+.page-id-(Page ID) (id or class element you want to effect) {
+	(css)
+}
+
+.page-id-28 #text-container {
+	display: none !important;
+}
